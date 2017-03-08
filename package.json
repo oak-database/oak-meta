@@ -1,7 +1,7 @@
 {
   "name": "oak-meta",
   "description": "Consumes barrels from the \"__OAK_META__\" rack to determine the state of an Oak server",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0",
   "author": "Trevin Hofmann <trevinhofmann@gmail.com>",
   "scripts": {
     "build": "grunt build",
